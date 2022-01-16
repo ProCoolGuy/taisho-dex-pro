@@ -50,3 +50,5 @@ Under the current payload design we are somewhat limited by what exchanges we ar
 - FulcrumHandler - [0xe309E4BE9dD0ad45958BF44f01923e56749e3837](https://etherscan.io/address/0xe309E4BE9dD0ad45958BF44f01923e56749e3837)
 Contribution: 2022-01-15 20:00
 
+Contribution: 2022-01-15 20:01
+
